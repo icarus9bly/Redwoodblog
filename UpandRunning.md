@@ -1,0 +1,3 @@
+- yarn create redwood-app ./redwoodblog
+- cd redwoodblog
+- yarn redwood dev
